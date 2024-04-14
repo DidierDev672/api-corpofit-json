@@ -1,0 +1,105 @@
+{
+    "physical-activity": [
+        {
+            "title": "Practica algún deporte?",
+            "isSelected": false,
+            "hobbit": [
+                {
+                    "title": "Cual?",
+                    "description": [
+                        "Futbol",
+                        "Baloncesto",
+                        "Voleibol",
+                        "Béisbol",
+                        "Boxeo",
+                        "Atletismo",
+                        "Ciclismo en ruta",
+                        "Notación"
+                    ],
+                    "value": ""
+                },
+                {
+                    "title": "Dias a la semana",
+                    "description": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7"
+                    ],
+                    "value": ""
+                },
+                {
+                    "title": "Tiempo por dia (Minutos)",
+                    "description": [
+                        "5",
+                        "10",
+                        "15",
+                        "20",
+                        "25",
+                        "30",
+                        "35",
+                        "40",
+                        "45",
+                        "50",
+                        "55",
+                        "60"
+                    ]
+                },
+                {
+                    "title": "Hace cuanto practica este deporte?",
+                    "value": ""
+                },
+                {
+                    "title": "Meses",
+                    "description": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "10",
+                        "11",
+                        "12"
+                    ],
+                    "value": ""
+                },
+                {
+                    "Indique el objetivo de esta practica": [
+                        {
+                            "title": "Recreación deportiva",
+                            "isSelected": false
+                        },
+                        {
+                            "title": "Formación deportiva",
+                            "isSelected": false
+                        },
+                        {
+                            "title": "Preparación profesional",
+                            "isSelected": false
+                        },
+                        {
+                            "title": "Estado saludable",
+                            "isSelected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Realizar esta practica le genera algún malestar?",
+            "isSelected": false,
+            "where": [
+                {
+                    "title": "Cual?",
+                    "value": ""
+                }
+            ]
+        }
+    ]
+}

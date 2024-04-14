@@ -1,0 +1,95 @@
+{
+    "actually": [
+        {
+            "title": "Sobre su alimentación actual",
+            "content": [
+                {
+                    "title": "Es guiada por un profesional del area",
+                    "isSelected": false
+                },
+                {
+                    "title": "Es guiada según su propio criterio",
+                    "isSelected": false
+                }
+            ]
+        },
+        {
+            "title": "Esta alimentación es:",
+            "contents": [
+                {
+                    "title": "Alta"
+                },
+                {
+                    "title": "Baja"
+                },
+                {
+                    "title": "Sin"
+                }
+            ],
+            "list_options": [
+                {
+                    "title": "Carbohidratos",
+                    "list_answer": [
+                        {
+                            "Alta": false,
+                            "Baja": false,
+                            "Sin": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Proteínas",
+                    "list_answer": [
+                        {
+                            "Alta": false,
+                            "Baja": false,
+                            "Sin": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Grasas",
+                    "list_answer": [
+                        {
+                            "Alta": false,
+                            "Baja": false,
+                            "Sin": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "¿Obtuvo resultado con ella?",
+            "isSelected": false,
+            "contents": [
+                {
+                    "title": "Los resultados fueron medidas teniendo en cuenta",
+                    "options": [
+                        {
+                            "title": "Composición corporal",
+                            "isSelected": false
+                        },
+                        {
+                            "title": "Peso corporal",
+                            "isSelected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "En su alimentación actual,¿pesa los alimento?",
+            "isSelected": false
+        },
+        {
+            "title": "¿Hace cuanto tiempo lleva esta alimentación?",
+            "times": [
+                {
+                    "years": 0,
+                    "mounts": 0
+                }
+            ]
+        }
+    ]
+}

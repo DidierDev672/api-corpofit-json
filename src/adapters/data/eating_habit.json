@@ -1,0 +1,381 @@
+{
+    "eating_habit": [
+        {
+            "title": "Cuantos veces come el dia? Comidas no refinados que no sean mecatos, fritos ni chatarra",
+            "description": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "value": ""
+        },
+        {
+            "title": "Come mecatos, fritos o comida rápida",
+            "isSelected": false
+        },
+        {
+            "title": "Describa los alimentos que consume por comida en un dia de alimento",
+            "food": [
+                {
+                    "title": "Comida 1",
+                    "value": ""
+                },
+                {
+                    "title": "Comida 2",
+                    "value": ""
+                },
+                {
+                    "title": "Comida 3",
+                    "value": ""
+                },
+                {
+                    "title": "Comida 4",
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "title": "Indique el horario de la primera y ultima comida",
+            "meal_times": [
+                {
+                    "title": "Primera comida",
+                    "format": [
+                        {
+                            "hours": [
+                                "1",
+                                "2",
+                                "3",
+                                "4",
+                                "5",
+                                "6",
+                                "7",
+                                "8",
+                                "9",
+                                "10",
+                                "12"
+                            ],
+                            "minutes": [
+                                "1",
+                                "2",
+                                "3",
+                                "4",
+                                "5",
+                                "6",
+                                "7",
+                                "8",
+                                "9",
+                                "10",
+                                "11",
+                                "12",
+                                "13",
+                                "14",
+                                "15",
+                                "16",
+                                "17",
+                                "18",
+                                "19",
+                                "20",
+                                "21",
+                                "22",
+                                "23",
+                                "24",
+                                "25",
+                                "26",
+                                "27",
+                                "28",
+                                "29",
+                                "30",
+                                "31",
+                                "32",
+                                "33",
+                                "34",
+                                "35",
+                                "36",
+                                "37",
+                                "38",
+                                "39",
+                                "40",
+                                "41",
+                                "42",
+                                "43",
+                                "44",
+                                "45",
+                                "46",
+                                "47",
+                                "48",
+                                "49",
+                                "50",
+                                "51",
+                                "52",
+                                "53",
+                                "54",
+                                "55",
+                                "56",
+                                "57",
+                                "58",
+                                "59",
+                                "60"
+                            ],
+                            "modular": [
+                                "A.M",
+                                "P.M"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Ultima comida",
+                    "format": [
+                        {
+                            "hours": [
+                                "1",
+                                "2",
+                                "3",
+                                "4",
+                                "5",
+                                "6",
+                                "7",
+                                "8",
+                                "9",
+                                "10",
+                                "12"
+                            ],
+                            "minutes": [
+                                "1",
+                                "2",
+                                "3",
+                                "4",
+                                "5",
+                                "6",
+                                "7",
+                                "8",
+                                "9",
+                                "10",
+                                "11",
+                                "12",
+                                "13",
+                                "14",
+                                "15",
+                                "16",
+                                "17",
+                                "18",
+                                "19",
+                                "20",
+                                "21",
+                                "22",
+                                "23",
+                                "24",
+                                "25",
+                                "26",
+                                "27",
+                                "28",
+                                "29",
+                                "30",
+                                "31",
+                                "32",
+                                "33",
+                                "34",
+                                "35",
+                                "36",
+                                "37",
+                                "38",
+                                "39",
+                                "40",
+                                "41",
+                                "42",
+                                "43",
+                                "44",
+                                "45",
+                                "46",
+                                "47",
+                                "48",
+                                "49",
+                                "50",
+                                "51",
+                                "52",
+                                "53",
+                                "54",
+                                "55",
+                                "56",
+                                "57",
+                                "58",
+                                "59",
+                                "60"
+                            ],
+                            "modular": [
+                                "A.M",
+                                "P.M"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Señale donde son preparados sus comidas",
+            "description": [
+                {
+                    "title": "En casa",
+                    "isSelected": false
+                },
+                {
+                    "title": "Fuera de casa",
+                    "isSelected": false
+                }
+            ]
+        },
+        {
+            "title": "Es alérgico a algún alimento?",
+            "isSelected": false,
+            "value": ""
+        },
+        {
+            "title": "Es intolerante a algún alimento?",
+            "subtitle": "Incluya lácteos y sus derivados frutas, verduras, leguminosas, frutos secos, etc...",
+            "isSelected": false,
+            "value": ""
+        },
+        {
+            "title": "Sobre su alimentación actual",
+            "content": [
+                {
+                    "title": "Es guiada por un profesional del area",
+                    "isSelected": false
+                },
+                {
+                    "title": "Es guiada según su propio criterio",
+                    "isSelected": false
+                }
+            ]
+        },
+        {
+            "title": "Esta alimentación es",
+            "content": [
+                {
+                    "title": "Carbohidrato",
+                    "levels": [
+                        {
+                            "Carbohidrato": [
+                                {
+                                    "high": false,
+                                    "low": false,
+                                    "sin": false
+                                }
+                            ],
+                            "Proteínas": [
+                                {
+                                    "high": false,
+                                    "low": false,
+                                    "sin": false
+                                }
+                            ],
+                            "Grasas": [
+                                {
+                                    "high": false,
+                                    "low": false,
+                                    "sin": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Obtuvo resultado con ella?",
+            "isSelected": false,
+            "content": [
+                {
+                    "title": "Los resultados fueron medidos teniendo en cuenta",
+                    "reserved": [
+                        {
+                            "title": "Composición corporal",
+                            "isSelected": false
+                        },
+                        {
+                            "title": "Peso corporal",
+                            "isSelected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "En su alimentación actual, Pesa los alimentos?",
+            "isSelected": false,
+            "contents": [
+                {
+                    "title": "Hace cuanto tiempo lleva esta alimentación",
+                    "formats": [
+                        {
+                            "year": [],
+                            "month": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Hace cuento tiempo lleva esta alimentación? Consume licor?",
+            "contents": [
+                {
+                    "title": "Nunca",
+                    "isSelected": false
+                },
+                {
+                    "title": "Una vez a la semana",
+                    "isSelected": false
+                },
+                {
+                    "title": "Una vez al mes",
+                    "isSelected": false
+                },
+                {
+                    "title": "Dos o tres veces por semana",
+                    "isSelected": false
+                },
+                {
+                    "title": "Mas de tres veces por semana",
+                    "isSelected": false
+                }
+            ]
+        },
+        {
+            "title": "Consume medicamento?",
+            "isSelected": false,
+            "value": ""
+        },
+        {
+            "title": "Consume suplementos?",
+            "isSelected": false,
+            "value": ""
+        },
+        {
+            "title": "Consumo de panes, postres helados y dulces?",
+            "isSelected": false,
+            "content": [
+                {
+                    "title": "Nunca",
+                    "isSelected": false
+                },
+                {
+                    "title": "Una vez a la semana",
+                    "isSelected": false
+                },
+                {
+                    "title": "Dos veces a la semana",
+                    "isSelected": false
+                },
+                {
+                    "title": "Una vez a la semana",
+                    "isSelected": false
+                },
+                {
+                    "title": "Mas de tres veces a la semana",
+                    "isSelected": false
+                }
+            ]
+        }
+    ]
+}

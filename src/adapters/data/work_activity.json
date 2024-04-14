@@ -1,0 +1,67 @@
+{
+    "work_activity": [
+        {
+            "title": "En que se desempeña lateralmente?",
+            "value": ""
+        },
+        {
+            "title": "Cuantos horas dedica a su trabajo?",
+            "description": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12"
+            ],
+            "value": ""
+        },
+        {
+            "title": "Promedio de horas sentado",
+            "description": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12"
+            ],
+            "value": ""
+        },
+        {
+            "title": "Promedio de horas de pie",
+            "description": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12"
+            ],
+            "value": ""
+        },
+        {
+            "title": "Su actividad laboral representa algún dolor o molestia?",
+            "isSelected": false,
+            "value": ""
+        }
+    ]
+}

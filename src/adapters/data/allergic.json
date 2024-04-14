@@ -1,0 +1,14 @@
+{
+    "allergic": [
+        {
+            "title": "¿Es alérgico a algún alimento?",
+            "isSelected": false
+        },
+        {
+            "title": "¿Es intolerante algún alimento?",
+            "subtitle": "Incluye lácteos y sus derivados, frutas, verduras, leguminosas, frutos secos, etc...",
+            "isSelected": false,
+            "value": ""
+        }
+    ]
+}

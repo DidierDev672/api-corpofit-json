@@ -1,0 +1,24 @@
+{
+    "recommendations": [
+        {
+            "id": "f6d1",
+            "training": [
+                {
+                    "1": "Entrenar un mínimo de 4 veces por semana.",
+                    "2": "Realizar los ejercicios llegando a la ultima repetición con fatiga y sin capacidad de hacer una más."
+                }
+            ],
+            "food": [
+                {
+                    "1": "Pesar todos los alimentos.",
+                    "2": "No sustituir sin previos consenso"
+                }
+            ],
+            "others": [
+                {
+                    "1": "En caso de dolor o molestia por favor informar."
+                }
+            ]
+        }
+    ]
+}

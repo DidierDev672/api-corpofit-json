@@ -1,0 +1,22 @@
+{
+    "physical_exercise": [
+        {
+            "title": "Realiza o ha ejercicio físico?",
+            "isSelected": false,
+            "description": [
+                {
+                    "title": "Actualmente hago ejercicio",
+                    "isSelected": false
+                },
+                {
+                    "title": "Actualmente no hago ejercicio",
+                    "isSelected": false
+                },
+                {
+                    "title": "Nunca he hecho ejercicio",
+                    "isSelected": false
+                }
+            ]
+        }
+    ]
+}

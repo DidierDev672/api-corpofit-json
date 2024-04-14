@@ -1,0 +1,183 @@
+{
+    "snack": [
+        {
+            "title": "Consume de panes, postres helados y dulces",
+            "contents": [
+                {
+                    "title": "Nunca",
+                    "isSelected": false
+                },
+                {
+                    "title": "Una vez a la semana",
+                    "isSelected": false
+                },
+                {
+                    "title": "Dos veces a la semana",
+                    "isSelected": false
+                },
+                {
+                    "title": "Más de tres veces a la semana",
+                    "isSelected": false
+                }
+            ]
+        },
+        {
+            "title": "Del siguiente listado de verduras, seleccione aquellas que NO LE GUSTAN:",
+            "contents": [
+                {
+                    "title": "Me gusta todas",
+                    "isSelected": false
+                },
+                {
+                    "title": "No me gusta",
+                    "isSelected": false
+                },
+                {
+                    "title": "Apio",
+                    "isSelected": false
+                },
+                {
+                    "title": "Acelga",
+                    "isSelected": false
+                },
+                {
+                    "title": "Berenjena",
+                    "isSelected": false
+                },
+                {
+                    "title": "Brocoli",
+                    "isSelected": false
+                },
+                {
+                    "title": "Calabaza o auyama",
+                    "isSelected": false
+                },
+                {
+                    "title": "Calabacin o zucchini",
+                    "isSelected": false
+                },
+                {
+                    "title": "Cebolla",
+                    "isSelected": false
+                },
+                {
+                    "title": "Coliflor",
+                    "isSelected": false
+                },
+                {
+                    "title": "Col",
+                    "isSelected": false
+                },
+                {
+                    "title": "Espinaca",
+                    "isSelected": false
+                },
+                {
+                    "title": "Espárragos",
+                    "isSelected": false
+                },
+                {
+                    "title": "Habichuela",
+                    "isSelected": false
+                },
+                {
+                    "title": "Lechuga",
+                    "isSelected": false
+                },
+                {
+                    "title": "Pepino",
+                    "isSelected": false
+                },
+                {
+                    "title": "Rábano",
+                    "isSelected": false
+                },
+                {
+                    "title": "Remolacha",
+                    "isSelected": false
+                },
+                {
+                    "title": "Repollo",
+                    "isSelected": false
+                },
+                {
+                    "title": "Rúcula",
+                    "isSelected": false
+                },
+                {
+                    "title": "Zanahoria",
+                    "isSelected": false
+                }
+            ]
+        },
+        {
+            "title": "Del siguiente listado de Frutas, seleccione aquellas que  NO LE GUSTA:",
+            "contents": [
+                {
+                    "name": "Mango",
+                    "isSelected": false
+                },
+                {
+                    "name": "Piña",
+                    "isSelected": false
+                },
+                {
+                    "name": "Papaya",
+                    "isSelected": false
+                },
+                {
+                    "name": "Kiwi",
+                    "isSelected": false
+                },
+                {
+                    "name": "Naranja",
+                    "isSelected": false
+                },
+                {
+                    "name": "Limón",
+                    "isSelected": false
+                },
+                {
+                    "name": "Pomelo",
+                    "isSelected": false
+                },
+                {
+                    "name": "Mandarina",
+                    "isSelected": false
+                },
+                {
+                    "name": "Fresa",
+                    "isSelected": false
+                },
+                {
+                    "name": "Frambuesa",
+                    "isSelected": false
+                },
+                {
+                    "name": "Arándano",
+                    "isSelected": false
+                },
+                {
+                    "name": "Mora",
+                    "isSelected": false
+                },
+                {
+                    "name": "Manzana",
+                    "isSelected": false
+                },
+                {
+                    "name": "Plátano",
+                    "isSelected": false
+                },
+                {
+                    "name": "Uva",
+                    "isSelected": false
+                },
+                {
+                    "name": "Sandía",
+                    "isSelected": false
+                }
+            ]
+        }
+    ]
+}

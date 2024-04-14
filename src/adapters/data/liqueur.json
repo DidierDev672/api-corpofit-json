@@ -1,0 +1,29 @@
+{
+    "liqueur": [
+        {
+            "title": "¿Consume licor?",
+            "contents": [
+                {
+                    "title": "Nunca",
+                    "isSelected": false
+                },
+                {
+                    "title": "Una vez a la semana",
+                    "isSelected": false
+                },
+                {
+                    "title": "Una vez al mes",
+                    "isSelected": false
+                },
+                {
+                    "title": "Dos o tres veces por semana",
+                    "isSelected": false
+                },
+                {
+                    "title": "Más de tres veces por semana",
+                    "isSelected": false
+                }
+            ]
+        }
+    ]
+}
