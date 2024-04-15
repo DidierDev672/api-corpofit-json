@@ -1,20 +1,18 @@
-{
-    "medicine": [
-        {
-            "title": "¿Consume algún medicamento frecuente?",
-            "isSelected": false
-        },
-        {
-            "title": "¿Cuándo fue el ultimo control médico?",
-            "isSelected": false
-        },
-        {
-            "title": "¿Su madre o padre tiene alguna enfermedad?",
-            "isSelected": false
-        },
-        {
-            "title": "¿Fumas?",
-            "isSelected": false
-        }
-    ]
-}
+[
+    {
+        "title": "¿Consume algún medicamento frecuente?",
+        "isSelected": false
+    },
+    {
+        "title": "¿Cuándo fue el ultimo control médico?",
+        "isSelected": false
+    },
+    {
+        "title": "¿Su madre o padre tiene alguna enfermedad?",
+        "isSelected": false
+    },
+    {
+        "title": "¿Fumas?",
+        "isSelected": false
+    }
+]

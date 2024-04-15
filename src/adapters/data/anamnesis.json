@@ -1,36 +1,34 @@
-{
-    "anamnesis": [
-        {
-            "title": "Algunas vez le ha diagnosticado su medico un problema en problema en el corazón, recomendando que solo haga deporte bajo supervision medico?",
-            "isSelected": false
-        },
-        {
-            "title": "Siente dolor en el pecho al hacer ejercicio?",
-            "isSelected": false
-        },
-        {
-            "title": "Ha tenido dolor en el pecho durante eel ultimo mes?",
-            "isSelected": false
-        },
-        {
-            "title": "Se marea frecuentemente o ha perdido el conocimiento demasiado veces?",
-            "isSelected": false
-        },
-        {
-            "title": "Toma medicamento para la presión arterial o otro problema circulatorio?",
-            "isSelected": false
-        },
-        {
-            "title": "Tiene problemas en las articulaciones o algún dolor que se agrave haciendo ejercicio?",
-            "isSelected": false
-        },
-        {
-            "title": "Cuenta con alguna otra recomendación medica que le recomiende no hacer de parte con mucha intensidad?",
-            "isSelected": false
-        },
-        {
-            "title": "Cuenta con alguna otra recomendación medica que le recomiende no hacer de parte con mucha intensidad?",
-            "isSelected": false
-        }
-    ]
-}
+[
+    {
+        "title": "Algunas vez le ha diagnosticado su medico un problema en problema en el corazón, recomendando que solo haga deporte bajo supervision medico?",
+        "isSelected": false
+    },
+    {
+        "title": "Siente dolor en el pecho al hacer ejercicio?",
+        "isSelected": false
+    },
+    {
+        "title": "Ha tenido dolor en el pecho durante eel ultimo mes?",
+        "isSelected": false
+    },
+    {
+        "title": "Se marea frecuentemente o ha perdido el conocimiento demasiado veces?",
+        "isSelected": false
+    },
+    {
+        "title": "Toma medicamento para la presión arterial o otro problema circulatorio?",
+        "isSelected": false
+    },
+    {
+        "title": "Tiene problemas en las articulaciones o algún dolor que se agrave haciendo ejercicio?",
+        "isSelected": false
+    },
+    {
+        "title": "Cuenta con alguna otra recomendación medica que le recomiende no hacer de parte con mucha intensidad?",
+        "isSelected": false
+    },
+    {
+        "title": "Cuenta con alguna otra recomendación medica que le recomiende no hacer de parte con mucha intensidad?",
+        "isSelected": false
+    }
+]
