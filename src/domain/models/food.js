@@ -1,5 +1,5 @@
 class Food {
-    constructor(title, value, isSelected, ContentFood, ContentSchedule, Contents) {
+    constructor(title, value, isSelected, ContentSchedule, Contents) {
         this.title = title;
         this.value = value;
         this.isSelected = isSelected;
@@ -16,13 +16,6 @@ class Contents {
     }
 }
 
-
-class ContentFood {
-    constructor(title, value) {
-        this.title = title;
-        this.value = value;
-    }
-}
 
 class ContentSchedule {
     constructor(title, FormatTime) {

@@ -1,32 +1,11 @@
 [
     {
-        "title": "¿Cuantas veces come al dia?, Comidas no refinadas que no sean mecatos, fritos ni chatarra",
+        "title": "¿Cuantas veces come al dia?, Comidas no refinadas que no sean mecatos, fritos ni chatarra?",
         "value": 1
     },
     {
         "title": "Come mecatos, fritos o comida rápida.",
         "isSelected": false
-    },
-    {
-        "title": "Describe los alimentos que consume por comida en un dia de alienación",
-        "contentFood": [
-            {
-                "title": "Comida 1",
-                "value": ""
-            },
-            {
-                "title": "Comida 2",
-                "value": ""
-            },
-            {
-                "title": "Comida 3",
-                "value": ""
-            },
-            {
-                "title": "Comida 4",
-                "value": ""
-            }
-        ]
     },
     {
         "title": "Indique el horario de la primera y ultima comida",
