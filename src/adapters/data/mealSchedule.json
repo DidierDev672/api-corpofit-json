@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Indique el horario de la primera y ultima comida",
+        "contentSchedule": [
+            {
+                "title": "Primera comida",
+                "formats": [
+                    {
+                        "hours": 1,
+                        "minutes": 1,
+                        "z-time": ""
+                    }
+                ]
+            },
+            {
+                "title": "Ultima comida",
+                "formats": [
+                    {
+                        "hours": 1,
+                        "minutes": 1,
+                        "z-time": ""
+                    }
+                ]
+            }
+        ]
+    }
+]
