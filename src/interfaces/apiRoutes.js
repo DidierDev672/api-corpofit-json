@@ -1,11 +1,18 @@
 const express = require('express');
 const userController = require('../adapters/controllers/UserController');
-const bussinesInfoController = require('../adapters/controllers/BussinesInfoController');
+const medicineController = require('../adapters/controllers/MedicineController');
+const ailmentController = require('../adapters/controllers/AilmentController');
+const FoodController = require('../adapters/controllers/FoodController');
+const MealPlanController = require('../adapters/controllers/MealPlanController');
+const MealScheduleController = require('../adapters/controllers/MealScheduleController');
 
 const router = express.Router();
 
-// Rutas de usuario
 router.use('/api', userController);
-router.use('/api', bussinesInfoController);
+router.use('/api', medicineController);
+router.use('/api', ailmentController);
+router.use('/api', FoodController);
+router.use('/api', MealPlanController);
+router.use('/api', MealScheduleController);
 
 module.exports = router;

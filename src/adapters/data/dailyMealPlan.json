@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Plan de alimentación diario",
+        "contentFood": [
+            {
+                "title": "Comida 1",
+                "value": ""
+            },
+            {
+                "title": "Comida 2",
+                "value": ""
+            },
+            {
+                "title": "Comida 3",
+                "value": ""
+            },
+            {
+                "title": "Comida 4",
+                "value": ""
+            }
+        ]
+    }
+]

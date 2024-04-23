@@ -1,71 +1,23 @@
-{
-    "food": [
-        {
-            "title": "¿Cuantas veces come al dia?, Comidas no refinadas que no sean mecatos, fritos ni chatarra",
-            "value": 1
-        },
-        {
-            "title": "Come mecatos, fritos o comida rápida.",
-            "isSelected": false
-        },
-        {
-            "title": "Describe los alimentos que consume por comida en un dia de alienación",
-            "content": [
-                {
-                    "title": "Comida 1",
-                    "value": ""
-                },
-                {
-                    "title": "Comida 2",
-                    "value": ""
-                },
-                {
-                    "title": "Comida 3",
-                    "value": ""
-                },
-                {
-                    "title": "Comida 4",
-                    "value": ""
-                }
-            ]
-        },
-        {
-            "title": "Indique el horario de la primera y ultima comida",
-            "contents": [
-                {
-                    "title": "Primera comida",
-                    "formats": [
-                        {
-                            "hours": 1,
-                            "minutes": 1,
-                            "z-time": ""
-                        }
-                    ]
-                },
-                {
-                    "title": "Ultima comida",
-                    "formats": [
-                        {
-                            "hours": 1,
-                            "minutes": 1,
-                            "z-time": ""
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Señale donde son preparadas sus comidas",
-            "contents": [
-                {
-                    "title": "En casa",
-                    "isSelected": false
-                },
-                {
-                    "title": "Fuera de casa",
-                    "isSelected": false
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "title": "¿Cuantas veces come al dia?, Comidas no refinadas que no sean mecatos, fritos ni chatarra?",
+        "value": 1
+    },
+    {
+        "title": "Come mecatos, fritos o comida rápida.",
+        "isSelected": false
+    },
+    {
+        "title": "Señale donde son preparadas sus comidas",
+        "contents": [
+            {
+                "title": "En casa",
+                "isSelected": false
+            },
+            {
+                "title": "Fuera de casa",
+                "isSelected": false
+            }
+        ]
+    }
+]
