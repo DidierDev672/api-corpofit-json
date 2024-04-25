@@ -4,23 +4,15 @@
         "contentSchedule": [
             {
                 "title": "Primera comida",
-                "formats": [
-                    {
-                        "hours": 1,
-                        "minutes": 1,
-                        "z-time": ""
-                    }
-                ]
+                "hours": 1,
+                "minutes": 1,
+                "z-time": ""
             },
             {
                 "title": "Ultima comida",
-                "formats": [
-                    {
-                        "hours": 1,
-                        "minutes": 1,
-                        "z-time": ""
-                    }
-                ]
+                "hours": 1,
+                "minutes": 1,
+                "z-time": ""
             }
         ]
     }
