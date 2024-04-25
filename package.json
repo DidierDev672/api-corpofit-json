@@ -2,6 +2,7 @@
   "dependencies": {
     "body-parser": "^1.20.2",
     "express": "^4.19.2",
+    "morgan": "1.10.0",
     "serve": "^13.0.4",
     "winston": "^3.13.0"
   },
@@ -13,7 +14,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon ./src/server.json"
+    "dev": "nodemon ./src/server.json",
+    "start": "node ./src/server.js"
   },
   "keywords": [],
   "author": "",
