@@ -1,5 +1,5 @@
 // const Ailment = require('../models/ailment');
-const data = require('../../adapters/data/anamnesis.json');
+const data = require('../../adapters/data/ailment.json');
 // const logger = require('../../utils/logger');
 
 class AilmentService {

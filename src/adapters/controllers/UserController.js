@@ -26,7 +26,7 @@ router.get('/users', (req, res) => {
 
 // Obtener usuario por ID
 router.get('/users/:id', (req, res) => {
-    const userId = parseInt(req.params.id);
+    const userId = req.params.id;
     const user = userService.getUserById(userId);
     if (!user) {
         return res.status(404).json({ message: 'User not found' });

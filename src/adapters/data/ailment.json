@@ -1,0 +1,30 @@
+[
+    {
+        "title": "¿Fuma?",
+        "isSelected": false
+    },
+    {
+        "title": "¿Siente dolor en el pecho al hacer ejercicio?",
+        "isSelected": false
+    },
+    {
+        "title": "¿Ha tenido dolor en el pecho durante el ultimo mes?",
+        "isSelected": false
+    },
+    {
+        "title": "¿Se marea frecuentemente o ha perdido el conocimiento demasiado veces?",
+        "isSelected": false
+    },
+    {
+        "title": "¿Toma medicamentos medicación para la presión arterial u otro problema circulatorio?",
+        "isSelected": false
+    },
+    {
+        "title": "¿Tiene problemas en la articulaciones o algún dolor que se agrava haciendo ejercicio?",
+        "isSelected": false
+    },
+    {
+        "title": "¿Cuenta con alguna otra recomendación medica que le recomiende no hacer deporte con mucha intensidad?",
+        "isSelected": false
+    }
+]
