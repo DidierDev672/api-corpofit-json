@@ -1,0 +1,19 @@
+meta {
+  name: POST
+  type: http
+  seq: 2
+}
+
+delete {
+  url: http://localhost:3000/api/diet/1
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "title": "Déficit calórico",
+    "description": "Recomendado para llevar a cabo los días de descanso por contener un mayor déficit calórico",
+    "photo": "www.tumblr.fitnes.com.co"
+  }
+}
