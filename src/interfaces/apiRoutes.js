@@ -7,6 +7,7 @@ const MealPlanController = require('../adapters/controllers/MealPlanController')
 const MealScheduleController = require('../adapters/controllers/MealScheduleController');
 const BussinesInfoController = require('../adapters/controllers/BussinesInfoController');
 const DietController = require('../adapters/controllers/dietController');
+const feedController = require('../adapters/controllers/feedController');
 
 const router = express.Router();
 
@@ -18,5 +19,6 @@ router.use('/api', MealPlanController);
 router.use('/api', MealScheduleController);
 router.use('/api', BussinesInfoController);
 router.use('/api', DietController);
+router.use('/api', feedController);
 
 module.exports = router;

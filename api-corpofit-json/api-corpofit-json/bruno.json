@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "api-corpofit-json",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
