@@ -4,16 +4,103 @@ meta {
   seq: 2
 }
 
-delete {
-  url: http://localhost:3000/api/diet/1
+post {
+  url: http://localhost:3000/api/food-schedule-record
   body: json
   auth: none
 }
 
 body:json {
   {
-    "title": "Déficit calórico",
-    "description": "Recomendado para llevar a cabo los días de descanso por contener un mayor déficit calórico",
-    "photo": "www.tumblr.fitnes.com.co"
+    "time": "7:00 p.m",
+    "feeds": [
+      {
+        "id": "NAIUpZGP57lsqdCn4cSB",
+        "title": "Arroz"
+      },
+      {
+        "id": "bwj7E7oUW0QhpYz2oxle",
+        "title": "Frijoles"
+      },
+      {
+        "id": "yZezTw4MXAITEy5mt2rp",
+        "title": "Carnes"
+      },
+      {
+        "id": "WagLPLghYZ83dkXtjQGr",
+        "title": "Ensala de verduras"
+      },
+      {
+        "id": "HCykiS6oWTVIrntpjFwj",
+        "title": "Aceite de oliva"
+      }
+    ],
+    
+    "unitMeasure": [
+      {
+        "id": "Ad1NkmqR7HddsRqNn2KD",
+        "title": "200 g"
+      },
+      {
+        "id": "CH2nKkbsGTdzi678ytEE",
+        "title": "100 g"
+      },
+      {
+        "id": "GP18Gh8VZTRt8UESVzUBp",
+        "title": "150 g"
+      },
+      {
+        "id": "s2fjPCLi3HqkqEsmxrMS",
+        "title": "1 porción"
+      },
+      {
+        "id": "JaGbWGrqMnWBVi8ZiMCO",
+        "title": "1 chda"
+      }
+    ],
+    "consumed": [
+      {
+        "idFeed": "NAIUpZGP57lsqdCn4cSB",
+        "idUnitMeasure": "Ad1NkmqR7HddsRqNn2KD",
+        "isSelected": false
+      },
+      {
+         "idFeed": "bwj7E7oUW0QhpYz2oxle",
+        "idUnitMeasure": "GP18Gh8VZTRt8UESVzUB",
+        "isSelected": false
+      },
+      {
+        "idFeed": "yZezTw4MXAITEy5mt2rp",
+        "idUnitMeasure": "GP18Gh8VZTRt8UESVzUBp",
+        "isSelected": false
+      },
+      {
+        "idFeed": "WagLPLghYZ83dkXtjQGr",
+        "idUnitMeasure": "JaGbWGrqMnWBVi8ZiMCO",
+        "isSelected": false
+      }
+    ],
+    "weighed": [
+     {
+        "idFeed": "NAIUpZGP57lsqdCn4cSB",
+        "idUnitMeasure": "Ad1NkmqR7HddsRqNn2KD",
+        "isSelected": false
+      },
+      {
+         "idFeed": "bwj7E7oUW0QhpYz2oxle",
+        "idUnitMeasure": "GP18Gh8VZTRt8UESVzUB",
+        "isSelected": false
+      },
+      {
+        "idFeed": "yZezTw4MXAITEy5mt2rp",
+        "idUnitMeasure": "GP18Gh8VZTRt8UESVzUBp",
+        "isSelected": false
+      },
+      {
+        "idFeed": "WagLPLghYZ83dkXtjQGr",
+        "idUnitMeasure": "JaGbWGrqMnWBVi8ZiMCO",
+        "isSelected": false
+      }
+    ]
   }
 }

@@ -757,6 +757,7 @@
 {"level":"info","message":"Server is running on port 3000","service":"user-service"}
 {"level":"info","message":"Server is running on port 3000","service":"user-service"}
 {"level":"info","message":"Server is running on port 3000","service":"user-service"}
+<<<<<<< HEAD
 {"level":"info","message":"Fetching all bussnes","service":"user-service"}
 {"level":"info","message":"Fetching all bussnes","service":"user-service"}
 {"level":"info","message":"Fetching all medicine","service":"user-service"}
@@ -770,4 +771,19 @@
 {"level":"info","message":"Fetching all bussnes","service":"user-service"}
 {"level":"info","message":"Fetching all bussnes","service":"user-service"}
 {"level":"info","message":"Fetching all bussnes","service":"user-service"}
+=======
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+>>>>>>> 3f0b563b92cfa64920a125cc9315262dee92a765
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
 {"level":"info","message":"Server is running on port 3000","service":"user-service"}
