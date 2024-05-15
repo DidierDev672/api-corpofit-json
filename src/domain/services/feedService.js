@@ -65,4 +65,4 @@ class FeedService {
     }
 }
 
-module.exports = FeedService;
+module.exports = FeedService;   
