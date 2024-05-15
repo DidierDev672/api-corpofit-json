@@ -12,7 +12,7 @@ class DietService {
         const newDietId = this.dietDatabase.length + 1;
         const newDiet = new Diet(newDietId, title, description, photo);
 
-        const docRef = db.collection('diet').add({
+        db.collection('diet').add({
             ...newDiet
         });
         this.dietDatabase.push(newDiet);
@@ -54,14 +54,13 @@ class DietService {
 
     // Método para actualizar una dieta existencia
     async updateDiet(id, title, description, photo) {
-        console.log(id);
         const dietToUpdate = this.getDietById(id);
         if (dietToUpdate) {
             dietToUpdate.title = title;
             dietToUpdate.description = description;
             dietToUpdate.photo = photo;
 
-            await db.collection('diet').doc(id).update({ ...dietToUpdate});
+            await db.collection('diet').doc(id).update({ ...dietToUpdate });
             return dietToUpdate;
         }
 
