@@ -793,6 +793,25 @@
 {"level":"info","message":"Fetching all bussnes","service":"user-service"}
 {"level":"info","message":"Fetching all bussnes","service":"user-service"}
 {"level":"info","message":"Fetching all bussnes","service":"user-service"}
+<<<<<<< HEAD
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Fetching all bussnes","service":"user-service"}
+{"level":"info","message":"Fetching all bussnes","service":"user-service"}
+{"level":"info","message":"Fetching all bussnes","service":"user-service"}
+=======
+>>>>>>> 8a22cd2a6693ce76db8af360b50c7e259c8e754d
+{"level":"info","message":"Fetching all bussnes","service":"user-service"}
+{"level":"info","message":"Fetching all bussnes","service":"user-service"}
+{"level":"info","message":"Fetching all bussnes","service":"user-service"}
+{"level":"info","message":"Fetching all bussnes","service":"user-service"}
+{"level":"info","message":"Fetching all bussnes","service":"user-service"}
+{"level":"info","message":"Fetching all bussnes","service":"user-service"}
+{"level":"info","message":"Fetching all bussnes","service":"user-service"}
+{"level":"info","message":"Fetching all bussnes","service":"user-service"}
+{"level":"info","message":"Fetching all bussnes","service":"user-service"}
+{"level":"info","message":"Fetching all bussnes","service":"user-service"}
+{"level":"info","message":"Fetching all bussnes","service":"user-service"}
+{"level":"info","message":"Fetching all bussnes","service":"user-service"}
 {"level":"info","message":"Server is running on port 3000","service":"user-service"}
 {"level":"info","message":"Fetching all bussnes","service":"user-service"}
 {"level":"info","message":"Fetching all bussnes","service":"user-service"}
@@ -802,6 +821,8 @@
 {"level":"info","message":"Fetching all bussnes","service":"user-service"}
 {"level":"info","message":"Fetching all bussnes","service":"user-service"}
 {"level":"info","message":"Fetching all bussnes","service":"user-service"}
+<<<<<<< HEAD
+=======
 {"level":"info","message":"Fetching all bussnes","service":"user-service"}
 {"level":"info","message":"Fetching all bussnes","service":"user-service"}
 {"level":"info","message":"Fetching all bussnes","service":"user-service"}
@@ -809,12 +830,12 @@
 {"level":"info","message":"Fetching all bussnes","service":"user-service"}
 {"level":"info","message":"Fetching all bussnes","service":"user-service"}
 {"level":"info","message":"Fetching all bussnes","service":"user-service"}
+>>>>>>> 8a22cd2a6693ce76db8af360b50c7e259c8e754d
 {"level":"info","message":"Server is running on port 3000","service":"user-service"}
-{"level":"info","message":"Fetching all bussnes","service":"user-service"}
-{"level":"info","message":"Fetching all bussnes","service":"user-service"}
-{"level":"info","message":"Fetching all bussnes","service":"user-service"}
-{"level":"info","message":"Fetching all bussnes","service":"user-service"}
-{"level":"info","message":"Fetching all bussnes","service":"user-service"}
-{"level":"info","message":"Fetching all bussnes","service":"user-service"}
-{"level":"info","message":"Fetching all bussnes","service":"user-service"}
-{"level":"info","message":"Fetching all bussnes","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
