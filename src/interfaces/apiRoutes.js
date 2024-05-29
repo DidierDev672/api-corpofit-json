@@ -11,6 +11,9 @@ const feedController = require("../adapters/controllers/feedController");
 const unitMeasureController = require("../adapters/controllers/unitMeasureController");
 const foodScheduleRecordController = require("../adapters/controllers/foodScheduleRecord");
 const nutritionController = require("../adapters/controllers/nutritionController");
+const tipController = require("../adapters/controllers/tipController.js");
+const categoryController = require("../adapters/controllers/categoryController.js");
+const exerciseController = require("../adapters/controllers/exerciseController.js");
 
 const router = express.Router();
 
@@ -26,5 +29,8 @@ router.use("/api", feedController);
 router.use("/api", unitMeasureController);
 router.use("/api", foodScheduleRecordController);
 router.use("/api", nutritionController);
+router.use("/api", tipController);
+router.use("/api", categoryController);
+router.use("/api", exerciseController);
 
 module.exports = router;
