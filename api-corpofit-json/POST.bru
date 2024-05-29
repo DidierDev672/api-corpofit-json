@@ -4,17 +4,20 @@ meta {
   seq: 2
 }
 
-post {
-  url: http://localhost:3000/api/users
+delete {
+  url: http://localhost:3000/api/exercise/5zpxrTls4c1JxyPNn6N5
   body: json
   auth: none
 }
 
 body:json {
   {
-    "name": "Didier Arias",
-    "email": "ariasdev672@gmail.com",
-    "age": 27,
-    "password": "$SpyXFamily45@"
+    "idCategory": "1WWUSyOTWPsLbDeMeqV8",
+    "name": "Estiramiento de Gato-Vaca",
+    "description": "En posición de cuadrupedia (cuatro patas), arquea la espalda hacia arriba (gato) y luego hacia abajo (vaca).",
+    "repetitions": 15,
+    "sets": 3,
+    "duration": 30,
+    "restTime":30
   }
 }
